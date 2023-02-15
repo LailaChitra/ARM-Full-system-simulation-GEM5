@@ -2,7 +2,7 @@
  ubuntu 18.04
  Gem5 version- Version 21.2.1.1
  
- Download files. Set path to binaries using "export".
+ Download files. Set path to full system images using "export".
  eg: export M5_PATH=/home/tuna/Desktop/life/gem5/fs_images
 
 Simulation
