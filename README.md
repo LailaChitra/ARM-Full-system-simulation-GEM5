@@ -2,7 +2,7 @@
  ubuntu 18.04
  Gem5 version- Version 21.2.1.1
  
- Download files. Set path to full system images using "export".
+ Download the files bootloader,kernel and disk. Set path to full system images using "export".
  eg: export M5_PATH=/.../fs_images
 
 Simulation
